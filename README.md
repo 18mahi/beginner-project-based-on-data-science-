@@ -35,4 +35,5 @@ The dataset is publicly available on Kaggle under the [Titanic competition](http
 - my score : 0.821229
 - Performance: Solid baseline accuracy with potential for improvement via ensemble methods or hyperparameter tuning
 
+<img width="873" height="822" alt="image" src="https://github.com/user-attachments/assets/b400024b-9799-4de4-a798-9bbd08c6124d" />
 
